@@ -1,4 +1,4 @@
-package br.com.renannrocha.spring_security_jwt;
+package br.com.renannrocha.spring_security_jwt.rest.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
