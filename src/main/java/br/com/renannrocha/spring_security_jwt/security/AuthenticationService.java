@@ -1,4 +1,4 @@
-package br.com.renannrocha.spring_security_jwt.security.service;
+package br.com.renannrocha.spring_security_jwt.security;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Service;
